@@ -1,9 +1,15 @@
+body {
+    background: rgb(201, 17, 118);
+}
+
+
 
 h1 {
     text-align: center;
-    background: rgb(255, 33, 181); 
+    background: rgb(245, 32, 149); 
 }
 
 p {
     text-align: center;
+    background: rgb(235, 25, 88);
 }
