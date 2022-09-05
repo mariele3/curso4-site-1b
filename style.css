@@ -13,3 +13,8 @@ p {
     text-align: center;
     background: rgba(25, 235, 190, 0.479);
 }
+
+strong {
+    color: rgba(0, 225, 255, 0.733);
+    
+}
