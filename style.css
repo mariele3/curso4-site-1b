@@ -8,15 +8,15 @@ body {
 
 h1 {
     text-align: center;
-    background: rgba(32, 245, 217, 0.39); 
+    background: rgba(245, 32, 245, 0.281); 
 }
 
 p {
     text-align: center;
-    background: rgba(25, 235, 190, 0.479);
+    background: rgba(235, 25, 190, 0.486);
 }
 
 strong {
-    color: rgba(0, 225, 255, 0.733);
+    color: rgba(255, 0, 242, 0.664);
     
 }
