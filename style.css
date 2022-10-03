@@ -18,21 +18,24 @@ p {
 
 strong {
     color: rgba(255, 0, 242, 0.473);
+}
+
 #especial {
     font-size: 20pt];
 }
     .itens{
         font-style: italic;
     }
-}
+
 h2 {
     text-align: center;
 }
+
 ul{
     display: inline-block;
 }
 
-#loja2 {
+#maquiagens2 {
     width: 50%;
 }
 
