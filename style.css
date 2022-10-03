@@ -28,6 +28,13 @@ strong {
 h2 {
     text-align: center;
 }
+ul{
+    display: inline-block;
+}
+
+#loja2 {
+    width: 50%;
+}
 
 .beneficios {
     background-color: rgba(192, 17, 119, 0.527);
