@@ -33,10 +33,13 @@ h2 {
 
 ul{
     display: inline-block;
+    vertical-align: top;
+    margin-right: 15%;
+    width: 50%;
 }
 
 #maquiagens2 {
-    width: 60%;
+    width: 50%;
 }
 
 .beneficios {
