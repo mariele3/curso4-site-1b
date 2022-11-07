@@ -1,6 +1,10 @@
 header{
     background-color: rgb(228, 204, 218);
-}
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}   
+    
 
 nav li {
     display: inline;
